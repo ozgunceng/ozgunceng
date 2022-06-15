@@ -7,19 +7,33 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 ⚡ Previous projects that I've been involved in were, \n
 
 Vision Algorithms,
+
 Electric Vehicle Firmware Development,
+
 Dual Rider Detection,
+
 Road & Sidewalk Detection, Helmet Detection,
+
 Parking Validation, 
+
 UART Communication,
+
 MQTT Messaging,
+
 TCP/UDP Device Connection and File Transfer, 
+
 WebRTC Streaming,
+
 Teleoperation Control,
+
 Recommender Systems,
+
 Machine Learning Model Performance Evaluations,
+
 Kmodel Creation,
+
 Embedded Module Implementation with MicroPython,
+
 Custom Firmware Build,
 
 
