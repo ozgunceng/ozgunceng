@@ -4,7 +4,7 @@
 
 I'm experienced in Machine Learning, Computer Vision and Firmware Development. Besides, I worked as a Game Developer in Serbia and Data Scientist in Germany at well-known companies.
 
-⚡ Previous projects that I've been involved in were,
+⚡ Previous projects that I've been involved in were, \n
 
 Vision Algorithms,
 Electric Vehicle Firmware Development,
