@@ -36,7 +36,7 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 
 -Custom Firmware Build
 
-💬 Since projects above are confidential none of them shared in this profile except company's GitHub.
+💬 Since projects mentioned above are confidential none of them shared in this profile except company's GitHub.
 
 <p align="center">
  
