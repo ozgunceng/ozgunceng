@@ -46,6 +46,7 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 </p>
 
 📫 You can reach me on my LinkedIn profile.
+
 ⚡ Fun fact: in any part of your sentence if you say computer vision it gives butterfly to my tummy 
 <!--
 **ozgunceng/ozgunceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
