@@ -38,6 +38,8 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 
 💬 Since projects mentioned above are confidential none of them shared in this profile except company's GitHub.
 
+📫 You can reach me on my LinkedIn profile.
+
 <p align="center">
  
 <a href="https://www.linkedin.com/in/ozzgizz/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzgizz/" alt="ozzgizz"/></a>
@@ -45,7 +47,7 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 
 </p>
 
-📫 You can reach me on my LinkedIn profile.
+
 
 ⚡ Fun fact: in any part of your sentence if you say computer vision it gives butterfly to my tummy 
 <!--
