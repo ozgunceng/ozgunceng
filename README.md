@@ -7,7 +7,6 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 ⚡ Previous projects that I've been involved in
 
 -Vision Algorithms
-
 -Electric Vehicle Firmware Development
 
 -Dual Rider Detection
