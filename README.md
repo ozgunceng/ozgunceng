@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Ozgun
+
+<p align="center">
+ 
+<a href="(https://www.linkedin.com/in/ozzgizz/)](https://www.linkedin.com/in/ozzgizz/)" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzgizz/" alt="ozzgizz"/></a>
+<a href="https://twitter.com/fuzzificator" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/fuzzificator" alt="fuzzificator"/></a>
+
+</p>
+
 
 <!--
 **ozgunceng/ozgunceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
