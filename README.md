@@ -4,38 +4,39 @@
 
 I'm experienced in Machine Learning, Computer Vision and Firmware Development. Besides, I worked as a Game Developer in Serbia and Data Scientist in Germany at well-known companies.
 
-⚡ Previous projects that I've been involved in were, \n
+⚡ Previous projects that I've been involved in
 
-Vision Algorithms,
+-Vision Algorithms
 
-Electric Vehicle Firmware Development,
+-Electric Vehicle Firmware Development
 
-Dual Rider Detection,
+-Dual Rider Detection
 
-Road & Sidewalk Detection, Helmet Detection,
+-Road & Sidewalk Detection, Helmet Detection
 
-Parking Validation, 
+-Parking Validation
 
-UART Communication,
+-UART Communication
 
-MQTT Messaging,
+-MQTT Messaging
 
-TCP/UDP Device Connection and File Transfer, 
+-TCP/UDP Device Connection and File Transfer
 
-WebRTC Streaming,
+-WebRTC Streaming
 
-Teleoperation Control,
+-Teleoperation Control
 
-Recommender Systems,
+-Recommender Systems
 
-Machine Learning Model Performance Evaluations,
+-Machine Learning Model Performance Evaluations
 
-Kmodel Creation,
+-Kmodel Creation
 
-Embedded Module Implementation with MicroPython,
+-Embedded Module Implementation with MicroPython
 
-Custom Firmware Build,
+-Custom Firmware Build
 
+💬 Since projects above are confidential none of them shared in this profile except company's GitHub.
 
 <p align="center">
  
