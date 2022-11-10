@@ -36,6 +36,8 @@ I'm experienced in Machine Learning, Computer Vision and Firmware Development. B
 
 -Custom Firmware Build
 
+-Unit tests, Firmware and Application Level Testing
+
 💬 Since projects mentioned above are confidential none of them shared in this profile except company's GitHub.
 
 📫 You can reach me on my LinkedIn profile.
