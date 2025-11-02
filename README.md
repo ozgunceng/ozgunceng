@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Ozgun
 
-🔭 I work as a Computer Vision Firmware Engineer at a company established by Ex-Tesla and Ex-SpaceX employees named Hello LLama AI and pursuing my master's degree in Artificial Intelligence in the UK.
+AI Researcher & Robotics Engineer, Former Doctoral Researcher in Edge AI.
+
+🔭 Previously worked as a Computer Vision & Firmware Engineer at a company established by Ex-Tesla and Ex-SpaceX employees named Hello LLama AI, and pursuing my master's degree in Artificial Intelligence in the UK.
 
 I'm experienced in Machine Learning, Computer Vision and Firmware Development. Besides, I worked as a Game Developer in Serbia and Data Scientist in Germany at well-known companies.
 
